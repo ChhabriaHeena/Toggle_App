@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Toggle_App/static/css/main.6340a1a3.chunk.css",
+    "main.js": "/Toggle_App/static/js/main.5cbd7e93.chunk.js",
+    "main.js.map": "/Toggle_App/static/js/main.5cbd7e93.chunk.js.map",
+    "runtime-main.js": "/Toggle_App/static/js/runtime-main.b8e5626d.js",
+    "runtime-main.js.map": "/Toggle_App/static/js/runtime-main.b8e5626d.js.map",
+    "static/js/2.a3c6ede2.chunk.js": "/Toggle_App/static/js/2.a3c6ede2.chunk.js",
+    "static/js/2.a3c6ede2.chunk.js.map": "/Toggle_App/static/js/2.a3c6ede2.chunk.js.map",
+    "static/js/3.8e17d2a0.chunk.js": "/Toggle_App/static/js/3.8e17d2a0.chunk.js",
+    "static/js/3.8e17d2a0.chunk.js.map": "/Toggle_App/static/js/3.8e17d2a0.chunk.js.map",
+    "index.html": "/Toggle_App/index.html",
+    "static/css/main.6340a1a3.chunk.css.map": "/Toggle_App/static/css/main.6340a1a3.chunk.css.map",
+    "static/js/2.a3c6ede2.chunk.js.LICENSE.txt": "/Toggle_App/static/js/2.a3c6ede2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e5626d.js",
+    "static/js/2.a3c6ede2.chunk.js",
+    "static/css/main.6340a1a3.chunk.css",
+    "static/js/main.5cbd7e93.chunk.js"
+  ]
+}
